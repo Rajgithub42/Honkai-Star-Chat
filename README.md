@@ -1,10 +1,10 @@
 # Honkai-Star-Chat
 A friendly chat app created on MERN Stack &lt;3
 
-# Name: Raj Anand
-# University: Indian Institute of Technology Roorkee
-# Department: Mechanical Engineering
-# Enrolment: 21117097
+### Name: Raj Anand
+### University: Indian Institute of Technology Roorkee
+### Department: Mechanical Engineering
+### Enrolment: 21117097
 
 
 # Overview
