@@ -26,3 +26,9 @@ Honkai-Star-Chat is a Full Stack Chatting App. Uses Socket.io for real time comm
 #### One on One Chat
 #### Group Chat
 #### Real-time Notifications
+
+
+# Future Modifications
+
+#### Chat bots
+#### Voice and Video Chat
